@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://udc.vn/don-gia-thi-cong-xay-dung.html' target='_blank'><img src='http://udc.vn/images/nivo-slider/ni-vo1.jpg' width='500px'/>xây nhà đẹp</a>. công ty xây dựng UDC. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://udc.vn/don-gia-thi-cong-xay-dung.html' target='_blank'><img src='http://udc.vn/images/nivo-slider/ni-vo1.jpg' width='500px'/>Đơn Giá thi công xây dựng chỉ 2tr650</a>. công ty xây dựng UDC. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
